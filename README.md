@@ -1,2 +1,2 @@
 # TouchOSC
-Collection of TouchOSC controllers
+TouchOSC controllers for guitar pedals and miscellaneous utilities
