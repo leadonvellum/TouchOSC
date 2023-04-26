@@ -1,4 +1,7 @@
-Color Picker v.1.0
+# Color Picker v.1.0
+
+![color_picker_images](color_picker_images/color_picker_example_1.png)
+![color_picker_images](color_picker_images/color_picker_example_2.png)
 
 This is a color picker which changes the color of the parent
 background and children controls within the parent that it 
