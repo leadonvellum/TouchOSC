@@ -1,4 +1,4 @@
-# Color Picker v.1.0
+# Color Picker
 
 ![color_picker_images](color_picker_images/color_picker_example_1.png)
 ![color_picker_images](color_picker_images/color_picker_example_2.png)
